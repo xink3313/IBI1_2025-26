@@ -1,5 +1,4 @@
-This is an example file for reflection in IBI1_2025-26.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I was able to edit this file to show changes in the lecture
+I know how to use VS code now, though just a little bit. 
+I know how to use git and git hub.
+This course is helpful to me.
+I think I will master it later.
