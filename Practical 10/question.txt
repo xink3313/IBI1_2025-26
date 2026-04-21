@@ -1,0 +1,8 @@
+Question:
+Plot a boxplot of DALYs for China and report the range between the maximum and minimum value recorded.
+
+Line Number:
+The code to address this question begins at line 74 in dalys.py.
+
+Discussion of Result:
+The boxplot illustrates the distribution of the disease burden in China from 1990 to 2019. The calculated range between the maximum and minimum DALYs is relatively large, indicating a significant shift in public health outcomes over these three decades. The overall trend shows a substantial decrease in DALYs, which is expected given China's rapid economic development, improvements in the healthcare system, and better living standards during this period.
