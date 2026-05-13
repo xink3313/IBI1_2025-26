@@ -1,0 +1,24 @@
+# Practical 13: Sequence Comparisons Summary
+
+## 1. Protein Information (from UniProt)
+- Protein: Human DLX5
+- Length: 289 amino acids [cite: 53]
+- Subcellular Localisation: Nucleus  
+
+## 2. Online BLAST Results
+- The range of percentage identities in the retrieved alignments was: 52.3%-100%
+
+## 3. Python Alignment Results
+Based on the custom Python script using the BLOSUM62 matrix:
+- Human DLX5 vs Mouse DLX5: 
+  - Percentage Identity: 96.54% (279/289 amino acids)
+  - BLOSUM62 Score: 1490
+- Human DLX5 vs Random Sequence: 
+  - Percentage Identity: 4.84% (14/289 amino acids)
+  - BLOSUM62 Score: -236
+- Mouse DLX5 vs Random Sequence: 
+  - Percentage Identity: 4.84% (14/289 amino acids)
+  - BLOSUM62 Score: -236
+
+## 4. Conclusion
+Comparing the alignment scores and percentage identities, the Human DLX5 and Mouse DLX5 sequences are extremely closely related. This high level of conservation indicates that they share a common evolutionary ancestor and likely perform the same essential biological function. In contrast, the comparison with a random sequence yields a negative BLOSUM score, confirming no meaningful evolutionary relationship.
